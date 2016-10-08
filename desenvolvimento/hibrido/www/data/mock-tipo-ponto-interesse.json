@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "descricao": "Alimentação",
+    "icone": "information-circle",
+    "destaque": "http://placeimg.com/160/120/nature"
+  },
+  {
+    "id": 2,
+    "descricao": "Evento",
+    "icone": "information-circle",
+    "destaque": "http://placeimg.com/160/120/nature"
+  },
+  {
+    "id": 3,
+    "descricao": "Hotel",
+    "icone": "information-circle",
+    "destaque": "http://placeimg.com/160/120/nature"
+  },
+  {
+    "id": 4,
+    "descricao": "Negócio",
+    "icone": "information-circle",
+    "destaque": "http://placeimg.com/160/120/nature"
+  },
+  {
+    "id": 5,
+    "descricao": "Passeio",
+    "icone": "information-circle",
+    "destaque": "http://placeimg.com/160/120/nature"
+  }
+]

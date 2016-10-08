@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "tipo_transporte": 3,
+    "descricao": "carona",
+    "icone": "car",
+    "destaque": "http://placeimg.com/160/120/tech/grayscale"
+  },
+  {
+    "id": 2,
+    "tipo_transporte": 4,
+    "descricao": "coletivo",
+    "icone": "car",
+    "destaque": "http://placeimg.com/160/120/tech/grayscale"
+  },
+  {
+    "id": 3,
+    "tipo_transporte": 3,
+    "descricao": "carro particular",
+    "icone": "car",
+    "destaque": "http://placeimg.com/160/120/tech/grayscale"
+  }
+]
